@@ -11,5 +11,5 @@ branches:
 deploy:
   provider: heroku
   api_key:
-    secure: e37f7992-ccab-4547-aee2-e577d6331acf
+    secure: 2GCjJv9Ezo3T6uiqrd0bxGRz7YkQ68cmbmdwWhIyn09tdBhbrJWHzfEbxL9StEj1WvZVGkZoevZV39yg9Pv1kIWXpJ+uHcma00UNpDKAQfpF2RrgsH64T/Ce7C0vjqvt3i8x3nWSCu+wLrXC8395iwdB04t89/1O/w1cDnyilFU=
   app: Testing_bot
