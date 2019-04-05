@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d04001ad-2468-4383-b9c3-204b3099a195" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Testing_bot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing_bot.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="496" />
     <option name="y" value="38" />
     <option name="width" value="1394" />
