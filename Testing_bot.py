@@ -131,8 +131,8 @@
     app = Flask(__name__)
     translator = Translator()
 
-    channel_secret = os.getenv('LINE_CHANNEL_SECRET', None)
-    channel_access_token = os.getenv('LINE_CHANNEL_ACCESS_TOKEN', None)
+    channel_secret = os.getenv('c7cfc2bca7ff78c0e521b5a14cffef42', None)
+    channel_access_token = os.getenv('KAhNUT+ta6Zsloe0h3B0gTphnggXLjtjpwA/tw5D0q8C322NztcJRb4oZ+X6n0f+WvZVGkZoevZV39yg9Pv1kIWXpJ+uHcma00UNpDKAQfosG+F+9D2L8tdH1Yy4+zH24M40gfHX8nlZaeMNmuVz4AdB04t89/1O/w1cDnyilFU=', None)
 
     line_bot_api = LineBotApi(channel_access_token)
     handler = WebhookHandler(channel_secret)
