@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04001ad-2468-4383-b9c3-204b3099a195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testing_bot" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Testing_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing_bot.py" afterDir="false" />
     </list>
@@ -17,10 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Testing_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="66" column="71" lean-forward="true" selection-start-line="66" selection-start-column="71" selection-end-line="66" selection-end-column="71" />
+            <state relative-caret-position="1453">
+              <caret line="185" column="46" selection-start-line="185" selection-start-column="46" selection-end-line="185" selection-end-column="46" />
               <folding>
-                <element signature="e#1939#1978#0" expanded="true" />
+                <element signature="e#3699#3718#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,10 +156,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Testing_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="66" column="71" lean-forward="true" selection-start-line="66" selection-start-column="71" selection-end-line="66" selection-end-column="71" />
+        <state relative-caret-position="1453">
+          <caret line="185" column="46" selection-start-line="185" selection-start-column="46" selection-end-line="185" selection-end-column="46" />
           <folding>
-            <element signature="e#1939#1978#0" expanded="true" />
+            <element signature="e#3699#3718#0" expanded="true" />
           </folding>
         </state>
       </provider>
