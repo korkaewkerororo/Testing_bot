@@ -68,7 +68,7 @@ from linebot.models import (MessageEvent, TextMessage, TextSendMessage)
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('2GCjJv9Ezo3T6uiqrd0bxGRz7YkQ68cmbmdwWhIyn09tdBhbrJWHzfEbxL9StEj1WvZVGkZoevZV39yg9Pv1kIWXpJ+uHcma00UNpDKAQfpF2RrgsH64T/Ce7C0vjqvt3i8x3nWSCu+wLrXC8395iwdB04t89/1O/w1cDnyilFU=')   #I put my TOKEN
+line_bot_api = LineBotApi('KAhNUT+ta6Zsloe0h3B0gTphnggXLjtjpwA/tw5D0q8C322NztcJRb4oZ+X6n0f+WvZVGkZoevZV39yg9Pv1kIWXpJ+uHcma00UNpDKAQfosG+F+9D2L8tdH1Yy4+zH24M40gfHX8nlZaeMNmuVz4AdB04t89/1O/w1cDnyilFU=')   #I put my TOKEN
 handler = WebhookHandler('c7cfc2bca7ff78c0e521b5a14cffef42')
 
 
